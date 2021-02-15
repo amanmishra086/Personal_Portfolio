@@ -213,10 +213,10 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
-  width: 200px;
+  width: 296px;
 }
 
 /*BUTTONS*/
