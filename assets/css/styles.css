@@ -213,10 +213,9 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: relative;
+  position: absolute;
   right: 0;
   bottom: 0;
-  height: 300px;
   width: 296px;
 }
 
